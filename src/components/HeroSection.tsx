@@ -191,7 +191,7 @@ export default function HeroSection() {
       />
 
       {/* Content */}
-      <div className="relative flex flex-col items-center justify-center text-center px-4 sm:px-6 gap-4 sm:gap-6 w-full max-w-full" style={{ zIndex: 3 }}>
+      <div className="relative flex flex-col items-center justify-center text-center px-4 sm:px-6 gap-4 sm:gap-6 w-full max-w-full -translate-y-8 sm:translate-y-0" style={{ zIndex: 3 }}>
 
         {/* Logo */}
         <AnimatePresence>
