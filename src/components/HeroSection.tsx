@@ -173,7 +173,7 @@ export default function HeroSection() {
   return (
     <section
       id="home"
-      className="relative min-h-screen flex items-center justify-center overflow-hidden bg-[#050505]"
+      className="relative min-h-[100svh] flex items-center justify-center overflow-hidden bg-[#050505] py-20 md:py-0"
     >
       {/* Grid background */}
       <div className="absolute inset-0 bg-grid opacity-40" style={{ zIndex: 0 }} />
@@ -191,7 +191,7 @@ export default function HeroSection() {
       />
 
       {/* Content */}
-      <div className="relative flex flex-col items-center justify-center text-center px-4 sm:px-6 gap-4 sm:gap-6 pt-16 md:pt-0 max-w-full" style={{ zIndex: 3 }}>
+      <div className="relative flex flex-col items-center justify-center text-center px-4 sm:px-6 gap-4 sm:gap-6 w-full max-w-full" style={{ zIndex: 3 }}>
 
         {/* Logo */}
         <AnimatePresence>
