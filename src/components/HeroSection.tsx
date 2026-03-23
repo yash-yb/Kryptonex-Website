@@ -313,7 +313,6 @@ export default function HeroSection() {
             className="absolute bottom-10 flex flex-col items-center gap-2"
           >
             <p className="font-mono text-[10px] text-white/25 tracking-widest uppercase"></p>
-            <div className="w-px h-10 bg-gradient-to-b from-[#D4AF37]/50 to-transparent mx-auto animate-pulse" />
           </motion.div>
         )}
       </div>
