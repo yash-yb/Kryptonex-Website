@@ -1,4 +1,4 @@
-# Kryptonex — Tech & Innovation Club Website
+# Kryptonex — Tech & Innovation Club Website (Incomplete)
 
 ## Live Preview
 
